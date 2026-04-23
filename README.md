@@ -24,10 +24,10 @@ MediDrop is a platform where users can:
 
 This project is split into two separate repositories:
 
-| Part | Repository | Live URL |
+| Part | Repository |
 |------|-----------|----------|
-| 🖥️ **Frontend** | [mediFrontend](https://github.com/Vaishnavi-sapkal/mediFrontend) | [medifrontend.onrender.com](https://medifrontend.onrender.com) |
-| ⚙️ **Backend** | [mediBackend](https://github.com/Vaishnavi-sapkal/mediBackend) | [medibackend-au6d.onrender.com](https://medibackend-au6d.onrender.com) |
+| 🖥️ **Frontend** | [mediFrontend](https://github.com/Vaishnavi-sapkal/mediFrontend) | 
+| ⚙️ **Backend** | [mediBackend](https://github.com/Vaishnavi-sapkal/mediBackend) | 
 
 ---
 
@@ -64,13 +64,13 @@ MediDrop
 ---
 
 ## 📸 Screenshots 
-## User dashboard
+## Donors & Receivers Portal
 
 | Home Page | Listings | Donation Form |
 |---|---|---|
 | ![Home](https://github.com/user-attachments/assets/7fecec1b-d110-4f04-9171-286bdda3e6e4) | ![Listings](https://github.com/user-attachments/assets/704dd0d1-443c-4cc6-860b-7868b3b5b753) | ![Donation](https://github.com/user-attachments/assets/40949487-f4c6-437d-8ad1-82b4c9d928b5) |
 
-## Admin dashboard
+## Admin Portal
 
 | Home page | Donation Requests | requests receives |
 |---|---|---|
