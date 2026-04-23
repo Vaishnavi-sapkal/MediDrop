@@ -25,7 +25,7 @@ MediDrop is a platform where users can:
 This project is split into two separate repositories:
 
 | Part | Repository |
-|------|-----------|----------|
+|------|-----------|
 | 🖥️ **Frontend** | [mediFrontend](https://github.com/Vaishnavi-sapkal/mediFrontend) | 
 | ⚙️ **Backend** | [mediBackend](https://github.com/Vaishnavi-sapkal/mediBackend) | 
 
