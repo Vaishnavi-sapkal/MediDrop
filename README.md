@@ -1,4 +1,4 @@
-# 💊 MediDrop — Medicine Collection & Donation App
+# 💊 MediDrop — Medicine Donation App
 
 > A full-stack MERN web application that connects medicine donors with people in need — promoting healthcare accessibility and reducing medicine waste.
 
@@ -7,12 +7,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com)
 [![Render](https://img.shields.io/badge/Deployed_on-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
-
----
-
-## 🌐 Live Demo
-
-🔗 [Visit MediDrop](https://medifrontend.onrender.com)
 
 ---
 
@@ -97,6 +91,6 @@ npm start
 ## 👩‍💻 Developer
 
 **Vaishnavi Sapkal**
-- 🌐 [Portfolio](#)
+- 🌐 [Portfolio](https://vaishanvi-sapkal.netlify.com)
 - 💼 [LinkedIn](https://linkedin.com/in/vaishnavi-sapkal)
 - 🐙 [GitHub](https://github.com/Vaishnavi-sapkal)
