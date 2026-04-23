@@ -1,4 +1,4 @@
-# 💊 MediDrop — Medicine Donation App
+# MediDrop — Medicine Donation App
 
 > A full-stack MERN web application that connects medicine donors with people in need — promoting healthcare accessibility and reducing medicine waste.
 
@@ -13,10 +13,10 @@
 ## 📌 About
 
 MediDrop is a platform where users can:
-- 💊 **Donate** unused or leftover medicines
-- 🔍 **Browse** available medicine donations
-- 📩 **Request** medicines they need
-- ♻️ Help reduce medicine waste and support those in need
+-  **Donate** unused or leftover medicines
+-  **Browse** available medicine donations
+-  **Request** medicines they need
+-  Help reduce medicine waste and support those in need
 
 ---
 
@@ -68,13 +68,14 @@ MediDrop
 
 | Home Page | Listings | Donation Form |
 |---|---|---|
-| ![Home](https://github.com/user-attachments/assets/40949487-f4c6-437d-8ad1-82b4c9d928b5) | ![Listing](https://github.com/user-attachments/assets/7fecec1b-d110-4f04-9171-286bdda3e6e4) | ![Donation Form](https://github.com/user-attachments/assets/704dd0d1-443c-4cc6-860b-7868b3b5b753) |
+| ![Home](https://github.com/user-attachments/assets/7fecec1b-d110-4f04-9171-286bdda3e6e4) | ![Listings](https://github.com/user-attachments/assets/704dd0d1-443c-4cc6-860b-7868b3b5b753) | ![Donation](https://github.com/user-attachments/assets/40949487-f4c6-437d-8ad1-82b4c9d928b5) |
 
 ## Admin dashboard
 
 | Home page | Donation Requests | requests receives |
 |---|---|---|
 | ![Home](https://github.com/user-attachments/assets/8b80a0db-865f-4d8d-aac0-f5df49b3b20e) | ![Donation](https://github.com/user-attachments/assets/4d096991-7f18-4631-ae5b-c5f4dd037c4f) | ![receivers](https://github.com/user-attachments/assets/f28d864d-16db-4a06-912f-9194a72a6851) |
+
 ## 🚀 Running Locally
 
 ### 1. Clone both repos
@@ -100,7 +101,7 @@ npm start
 
 ---
 
-## 👩‍💻 Developer
+## 👩‍💻Author
 
 **Vaishnavi Sapkal**
 - 🌐 [Portfolio](https://vaishanvi-sapkal.netlify.com)
