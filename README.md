@@ -104,6 +104,6 @@ npm start
 ## 👩‍💻Author
 
 **Vaishnavi Sapkal**
-- 🌐 [Portfolio](https://vaishanvi-sapkal.netlify.com)
+- 🌐 [Portfolio](https://vaishanvisapkal.netlify.com)
 - 💼 [LinkedIn](https://linkedin.com/in/vaishnavi-sapkal)
 - 🐙 [GitHub](https://github.com/Vaishnavi-sapkal)
